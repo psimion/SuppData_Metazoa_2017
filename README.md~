@@ -27,16 +27,13 @@ This file is a partitionning scheme corresponding to the boundaries of the 1719 
 
 ## Trees
 
-### standard analyses
+### complete dataset analyses
 
 **tree_97sp_CAT.tre**  
 
-
 **tree_90sp_CAT.tre**  
 
-
 **tree_97sp_LGF-PARTITION.tre**  
-
 
 **tree_90sp_LGF-PARTITION.tre**  
 
@@ -45,33 +42,24 @@ This file is a partitionning scheme corresponding to the boundaries of the 1719 
 
 **tree_90sp_CAT_heterop60.tre**  
 
-
 **tree_90sp_CAT_heterop70.tre**  
-
 
 
 ### model comparison when reducing taxonomic sampling
 
 **tree_NoDemo_CAT.tre**  
 
-
 **tree_NoDemo_LGF-PARTITION.tre**  
-
 
 **tree_NoDemoCalcHomo_CAT.tre**  
 
-
 **tree_NoDemoCalcHomo_LGF-PARTITION.tre**  
-
 
 **tree_Whelan2016_NoDemo_CAT.tre**  
 
-
 **tree_Whelan2016_NoDemo_LGF-PARTITION.tre**  
 
-
 **tree_Whelan2016_NoDemoCalcHomo_CAT.tre**  
-
 
 **tree_Whelan2016_NoDemoCalcHomo_LGF-PARTITION.tre**  
 
