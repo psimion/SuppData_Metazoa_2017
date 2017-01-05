@@ -3,11 +3,11 @@ SuppData_Metazoa_2017
 
 This repository contains supplemental materials from [citation]:
 
-#### Alignements
+## Alignements
 
 
 
-#### Supermatrices
+## Supermatrices
 
 **supermatrix_97sp_401632pos_1719genes.fasta**  
 this file corresponds to the concatenation of the entire dataset.
@@ -25,31 +25,32 @@ You probably want to remove the first line of this file when using other softwar
 **partition_401632pos_1719genes.part**  
 This file is a partitionning scheme corresponding to the boundaries of the 1719 genes.
 
-#### Trees
+## Trees
 
-**standard analyses**
+### standard analyses
 
-*tree_97sp_CAT.tre*
-
-
-*tree_90sp_CAT.tre*
+**tree_97sp_CAT.tre**  
 
 
-*tree_97sp_LGF-PARTITION.tre*
+**tree_90sp_CAT.tre**  
 
 
-*tree_90sp_LGF-PARTITION.tre*
+**tree_97sp_LGF-PARTITION.tre**  
 
 
-**removal of heteropecileous sites**
-
-*tree_90sp_CAT_heterop60.tre*
+**tree_90sp_LGF-PARTITION.tre**  
 
 
-*tree_90sp_CAT_heterop70.tre*
+### removal of heteropecileous sites
+
+**tree_90sp_CAT_heterop60.tre**  
+
+
+**tree_90sp_CAT_heterop70.tre**  
 
 
 
+### model comparison when reducing taxonomic sampling
 
 **tree_NoDemo_CAT.tre**  
 
@@ -61,8 +62,6 @@ This file is a partitionning scheme corresponding to the boundaries of the 1719 
 
 
 **tree_NoDemoCalcHomo_LGF-PARTITION.tre**  
-
-
 
 
 **tree_Whelan2016_NoDemo_CAT.tre**  
