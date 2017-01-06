@@ -25,13 +25,13 @@ You probably want to remove the first line of this file when using other softwar
 **partition_401632pos_1719genes.part**  
 Partitionning scheme corresponding to the boundaries of the 1719 genes.
 
-**supermatrix_whelan2016_81006pos_NoDemo.phy**  
+**supermatrix_whelan2015_81006pos_NoDemo.phy**  
 Dataset from Whelan et al. 2016 in which demosponges have been removed.
 
-**supermatrix_whelan2016_81006pos_NoDemoCalcHomo.phy**  
+**supermatrix_whelan2015_81006pos_NoDemoCalcHomo.phy**  
 Dataset from Whelan et al. 2016 in which all sponges except hexactinellides have been removed.
 
-**partition_whelan2016_81006pos.part**  
+**partition_whelan2015_81006pos.part**  
 Partitionning scheme corresponding to the boundaries of the 251 genes from Whelan et al. 2016.
 
 
@@ -76,16 +76,16 @@ Partitionning scheme corresponding to the boundaries of the 251 genes from Whela
 **tree_NoDemoCalcHomo_LGF-PARTITION.tre**  
 100 bootstraps - partitionning by gene - LG+G4+F (RAxML)
 
-**tree_Whelan2016_NoDemo_CAT.tre**  
+**tree_Whelan2015_NoDemo_CAT.tre**  
 2 independant MCMC chains - CAT+G4 (Phylobayes)
 
-**tree_Whelan2016_NoDemo_LGF-PARTITION.tre**  
+**tree_Whelan2015_NoDemo_LGF-PARTITION.tre**  
 100 bootstraps - partitionning by gene - LG+G4+F (RAxML)
 
-**tree_Whelan2016_NoDemoCalcHomo_CAT.tre**  
+**tree_Whelan2015_NoDemoCalcHomo_CAT.tre**  
 2 independant MCMC chains - CAT+G4 (Phylobayes)
 
-**tree_Whelan2016_NoDemoCalcHomo_LGF-PARTITION.tre**  
+**tree_Whelan2015_NoDemoCalcHomo_LGF-PARTITION.tre**  
 100 bootstraps - partitionning by gene - LG+G4+F (RAxML)
 
 

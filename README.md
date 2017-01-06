@@ -26,13 +26,13 @@ You probably want to remove the first line of this file when using other softwar
 Partitionning scheme corresponding to the boundaries of the 1719 genes.
 
 **supermatrix_whelan2015_81006pos_NoDemo.phy**  
-Dataset from Whelan et al. 2016 in which demosponges have been removed.
+Dataset from Whelan et al. 2015 in which demosponges have been removed.
 
 **supermatrix_whelan2015_81006pos_NoDemoCalcHomo.phy**  
-Dataset from Whelan et al. 2016 in which all sponges except hexactinellides have been removed.
+Dataset from Whelan et al. 2015 in which all sponges except hexactinellides have been removed.
 
 **partition_whelan2015_81006pos.part**  
-Partitionning scheme corresponding to the boundaries of the 251 genes from Whelan et al. 2016.
+Partitionning scheme corresponding to the boundaries of the 251 genes from Whelan et al. 2015.
 
 
 
