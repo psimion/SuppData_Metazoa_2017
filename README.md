@@ -13,17 +13,28 @@ This archive contains the 1719 alignments as obtained after our complete dataset
 this file corresponds to the concatenation of the entire dataset (1719 gene alignements).
 
 **supermatrix_90sp_136618pos_heterop60.puz**  
-This file corresponds to the removal of the 60% most heteropecileous sites.
+Dataset after the removal of the 60% most heteropecileous sites.
 
 **supermatrix_90sp_102464pos_heterop70.puz**  
-This file corresponds to the removal of the 70% most heteropecileous sites.
+Dataset after the removal of the 70% most heteropecileous sites.
 
 **supermatrix_90sp_268032pos_dayhoff6.phy**  
-This file corresponds to the dayhoff6 recoding of our dataset (constant sites were removed).
+Dayhoff6 recoding of our dataset (constant sites were removed).
 You probably want to remove the first line of this file when using other softwares than PhyloBayes.
 
 **partition_401632pos_1719genes.part**  
-This file is a partitionning scheme corresponding to the boundaries of the 1719 genes.
+Partitionning scheme corresponding to the boundaries of the 1719 genes.
+
+**supermatrix_whelan2015_81006pos_NoDemo.phy**  
+Dataset from Whelan et al. 2016 in which demosponges have been removed.
+
+**supermatrix_whelan2015_81006pos_NoDemoCalcHomo.phy**  
+Dataset from Whelan et al. 2016 in which all sponges except hexactinellides have been removed.
+
+**partition_whelan2015_81006pos.part**  
+Partitionning scheme corresponding to the boundaries of the 251 genes from Whelan et al. 2016.
+
+
 
 ## Trees
 
@@ -65,16 +76,16 @@ This file is a partitionning scheme corresponding to the boundaries of the 1719 
 **tree_NoDemoCalcHomo_LGF-PARTITION.tre**  
 100 bootstraps - partitionning by gene - LG+G4+F (RAxML)
 
-**tree_Whelan2016_NoDemo_CAT.tre**  
+**tree_Whelan2015_NoDemo_CAT.tre**  
 2 independant MCMC chains - CAT+G4 (Phylobayes)
 
-**tree_Whelan2016_NoDemo_LGF-PARTITION.tre**  
+**tree_Whelan2015_NoDemo_LGF-PARTITION.tre**  
 100 bootstraps - partitionning by gene - LG+G4+F (RAxML)
 
-**tree_Whelan2016_NoDemoCalcHomo_CAT.tre**  
+**tree_Whelan2015_NoDemoCalcHomo_CAT.tre**  
 2 independant MCMC chains - CAT+G4 (Phylobayes)
 
-**tree_Whelan2016_NoDemoCalcHomo_LGF-PARTITION.tre**  
+**tree_Whelan2015_NoDemoCalcHomo_LGF-PARTITION.tre**  
 100 bootstraps - partitionning by gene - LG+G4+F (RAxML)
 
 
