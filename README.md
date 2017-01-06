@@ -3,14 +3,14 @@ SuppData_Metazoa_2017
 
 This repository contains supplemental materials from [citation]:
 
-## Alignements
 
+## Dataset
 
-
-## Supermatrices
+**alignements_1719genes.tgz**  
+This archive contains the 1719 alignments as obtained after our complete dataset building protocol.
 
 **supermatrix_97sp_401632pos_1719genes.fasta**  
-this file corresponds to the concatenation of the entire dataset.
+this file corresponds to the concatenation of the entire dataset (1719 gene alignements).
 
 **supermatrix_90sp_136618pos_heterop60.puz**  
 This file corresponds to the removal of the 60% most heteropecileous sites.
@@ -30,45 +30,59 @@ This file is a partitionning scheme corresponding to the boundaries of the 1719 
 ### complete dataset analyses
 
 **tree_97sp_CAT.tre**  
+10 jackknife replicates of 100,000 position each - CAT+G4 (Phylobayes)
 
 **tree_90sp_CAT.tre**  
+100 jackknife replicates of 100,000 position each - CAT+G4 (Phylobayes)
 
 **tree_97sp_LGF-PARTITION.tre**  
+100 bootstraps - partitionning by gene - LG+G4+F (RAxML)
 
 **tree_90sp_LGF-PARTITION.tre**  
+100 bootstraps - partitionning by gene - LG+G4+F (RAxML)
 
 
 ### removal of heteropecileous sites
 
 **tree_90sp_CAT_heterop60.tre**  
+2 independant MCMC chains - CAT+G4 (Phylobayes)
 
 **tree_90sp_CAT_heterop70.tre**  
+2 independant MCMC chains - CAT+G4 (Phylobayes)
 
 
 ### model comparison when reducing taxonomic sampling
 
 **tree_NoDemo_CAT.tre**  
+10 jackknife replicates of 100,000 position each - CAT+G4 (Phylobayes)
 
 **tree_NoDemo_LGF-PARTITION.tre**  
+100 bootstraps - partitionning by gene - LG+G4+F (RAxML)
 
 **tree_NoDemoCalcHomo_CAT.tre**  
+10 jackknife replicates of 100,000 position each - CAT+G4 (Phylobayes)
 
 **tree_NoDemoCalcHomo_LGF-PARTITION.tre**  
+100 bootstraps - partitionning by gene - LG+G4+F (RAxML)
 
 **tree_Whelan2016_NoDemo_CAT.tre**  
+2 independant MCMC chains - CAT+G4 (Phylobayes)
 
 **tree_Whelan2016_NoDemo_LGF-PARTITION.tre**  
+100 bootstraps - partitionning by gene - LG+G4+F (RAxML)
 
 **tree_Whelan2016_NoDemoCalcHomo_CAT.tre**  
+2 independant MCMC chains - CAT+G4 (Phylobayes)
 
 **tree_Whelan2016_NoDemoCalcHomo_LGF-PARTITION.tre**  
+100 bootstraps - partitionning by gene - LG+G4+F (RAxML)
 
 
 ## Information
 
 **choanoflagellate_names.xls**  
 This table contains the correspondance between old names used for choanoflagellate data and their recently published valid names 
-[Carr et al. 2016](http://www.sciencedirect.com/science/article/pii/S1055790316302743).
+([Carr et al. 2016](http://www.sciencedirect.com/science/article/pii/S1055790316302743)).
 While recently published valid names are used in our article, raw phylogenetic trees avalaible here use the old names.
 
 
