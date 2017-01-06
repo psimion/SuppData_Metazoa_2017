@@ -64,4 +64,11 @@ This file is a partitionning scheme corresponding to the boundaries of the 1719 
 **tree_Whelan2016_NoDemoCalcHomo_LGF-PARTITION.tre**  
 
 
+## Information
+
+**choanoflagellate_names.xls**  
+This table contains the correspondance between old names used for choanoflagellate data and their recently published valid names 
+(Carr et al. 2016)[http://www.sciencedirect.com/science/article/pii/S1055790316302743].
+While recently published valid names are used in our article, raw phylogenetic trees avalaible here use the old names.
+
 
