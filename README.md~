@@ -92,22 +92,22 @@ Partitionning scheme corresponding to the boundaries of the 251 genes from Whela
 ### Pipeline cleaning example : the rpl2 gene
 
 **tree_rpl2_FIFO.pdf**  
-
+rpl2 tree when using initial datasets (right after the Filter Focus step - FIFO)
 
 **tree_rpl2_DCC.pdf**  
-
+rpl2 tree when using datasets after the De-Cross-Contamination step (DCC)
 
 **tree_rpl2_DC1.pdf**  
-
+rpl2 tree when using datasets after the De-Contamination step 1 (DC1)
 
 **tree_rpl2_DC2.pdf**  
-
+rpl2 tree when using datasets after the De-Contamination step 2 (DC2)
 
 **tree_rpl2_DC3.pdf**  
-
+rpl2 tree when using datasets after the De-Contamination step 3 (DC3)
 
 **tree_rpl2_FINAL.pdf**  
-
+Final rpl2 tree after all cleaning steps of our pipeline, as used for supermatrix concatenation.
 
 
 ## Information
