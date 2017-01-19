@@ -109,12 +109,14 @@ rpl2 tree when using datasets after the De-Contamination step 3 (DC3).
 **tree_rpl2_FINAL.pdf**  
 Final rpl2 tree after all cleaning steps of our pipeline, as used for supermatrix concatenation.
 
+## softwares
+
+**utilities_src.tgz**
+These are the sources of the programs used in our dataset assembly procedure.
 
 ## Information
 
 **choanoflagellate_names.xls**  
-This table contains the correspondance between old names used for choanoflagellate data and their recently published valid names 
+This table contains the correspondance between old names used for choanoflagellate data and their recently published valid names
 ([Carr et al. 2016](http://www.sciencedirect.com/science/article/pii/S1055790316302743)).
-While recently published valid names are used in our article, raw phylogenetic trees avalaible here use the old names.
-
-
+While recently published valid names are used in our article, we make this table available for clarity.
