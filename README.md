@@ -109,10 +109,12 @@ rpl2 tree when using datasets after the De-Contamination step 3 (DC3).
 **tree_rpl2_FINAL.pdf**  
 Final rpl2 tree after all cleaning steps of our pipeline, as used for supermatrix concatenation.
 
-## softwares
+## Softwares
 
 **utilities_src.tgz**
-These are the sources of the programs used in our dataset assembly procedure.
+These are the sources of the C programs used in our dataset assembly procedure.
+Please note that the "De-Cross-Contamination" (DCC) step of our procedure has been re-worked 
+as a software (named "CroCo") currently under final development and that will be published elsewhere.
 
 ## Information
 
