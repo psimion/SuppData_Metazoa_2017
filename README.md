@@ -113,12 +113,10 @@ Final rpl2 tree after all cleaning steps of our pipeline, as used for supermatri
 
 **utilities_src.tgz**  
 These are the sources of the C programs used in our dataset assembly procedure.
-Please note that the "De-Cross-Contamination" (DCC) step of our procedure has been re-worked 
+Please note that the "De-Cross-Contamination" (DCC) step of our procedure has been re-worked
 as a dedicated software (named "CroCo") currently under final development and that will be published elsewhere.
 
 ## Information
 
-**choanoflagellate_names.xls**  
-This table contains the correspondance between old names used for choanoflagellate data and their recently published valid names
-([Carr et al. 2016](http://www.sciencedirect.com/science/article/pii/S1055790316302743)).
-While recently published valid names are used in our article, we make this table available for clarity.
+**choanoflagellate names**  
+Choanoflagellate names used in our study corresponds to the valid names recently published by Carr et al. ([2016](http://www.sciencedirect.com/science/article/pii/S1055790316302743)).
