@@ -1,7 +1,9 @@
 SuppData_Metazoa_2017
 ---
 
-This repository contains supplemental materials from [citation]:
+This repository contains supplemental materials from :
+
+Paul Simion, Hervé Philippe, Denis Baurain, Muriel Jager, Daniel J. Richter, Arnaud Di Franco, Béatrice Roure, Nori Satoh, Éric Quéinnec, Alexander Ereskovsky, Pascal Lapébie, Erwan Corre, Frédéric Delsuc, Nicole King, Gert Wörheide, Michaël Manuel, A Large and Consistent Phylogenomic Dataset Supports Sponges as the Sister Group to All Other Animals, Current Biology, Available online 16 March 2017, ISSN 0960-9822, http://dx.doi.org/10.1016/j.cub.2017.02.031.
 
 
 ## Dataset
@@ -35,7 +37,6 @@ Dataset from Whelan et al. 2015 in which all sponges except hexactinellides have
 Partitionning scheme corresponding to the boundaries of the 251 genes from Whelan et al. 2015.
 
 
-
 ## Trees
 
 ### complete dataset analyses
@@ -52,7 +53,6 @@ Partitionning scheme corresponding to the boundaries of the 251 genes from Whela
 **tree_90sp_LGF-PARTITION.tre**  
 100 bootstraps - partitionning by gene - LG+G4+F (RAxML)
 
-
 ### removal of heteropecileous sites
 
 **tree_90sp_CAT_heterop60.tre**  
@@ -60,7 +60,6 @@ Partitionning scheme corresponding to the boundaries of the 251 genes from Whela
 
 **tree_90sp_CAT_heterop70.tre**  
 2 independant MCMC chains - CAT+G4 (Phylobayes)
-
 
 ### model comparison when reducing taxonomic sampling
 
@@ -88,7 +87,6 @@ Partitionning scheme corresponding to the boundaries of the 251 genes from Whela
 **tree_Whelan2015_NoDemoCalcHomo_LGF-PARTITION.tre**  
 100 bootstraps - partitionning by gene - LG+G4+F (RAxML)
 
-
 ### Pipeline cleaning example : the rpl2 gene
 
 **tree_rpl2_FIFO.pdf**  
@@ -109,6 +107,7 @@ rpl2 tree when using datasets after the De-Contamination step 3 (DC3).
 **tree_rpl2_FINAL.pdf**  
 Final rpl2 tree after all cleaning steps of our pipeline, as used for supermatrix concatenation.
 
+
 ## Softwares
 
 **utilities_src.tgz**  
@@ -116,7 +115,11 @@ These are the sources of the C programs used in our dataset assembly procedure.
 Please note that the "De-Cross-Contamination" (DCC) step of our procedure has been re-worked
 as a dedicated software (named "CroCo") currently under final development and that will be published elsewhere.
 
+
 ## Information
+
+**taxon_names.dict**  
+This dictionnary indicates the corresponds between full taxon names and their short version found in phylip files.
 
 **choanoflagellate names**  
 Choanoflagellate names used in our study corresponds to the valid names recently published by Carr et al. ([2016](http://www.sciencedirect.com/science/article/pii/S1055790316302743)).
