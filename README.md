@@ -47,6 +47,9 @@ Partitionning scheme corresponding to the boundaries of the 251 genes from Whela
 **tree_90sp_CAT.tre**  
 100 jackknife replicates of 100,000 position each - CAT+G4 (Phylobayes)
 
+**100_jackknife_replicates_90sp_CAT.trees**  
+All jackknife trees corresponding to a 100 replicates used to build *tree_90sp_CAT.tre* - CAT+G4 (Phylobayes)
+
 **tree_97sp_LGF-PARTITION.tre**  
 100 bootstraps - partitionning by gene - LG+G4+F (RAxML)
 
