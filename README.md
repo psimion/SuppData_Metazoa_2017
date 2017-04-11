@@ -121,6 +121,9 @@ as a dedicated software (named "CroCo") currently under final development and th
 
 ## Information
 
+**Post-publication_note.pdf**  
+Additional note on the MCMC convergence approximation strategy.
+
 **taxon_names.dict**  
 This dictionnary indicates the corresponds between full taxon names and their short version found in phylip files.
 
