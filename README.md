@@ -47,9 +47,6 @@ Partitionning scheme corresponding to the boundaries of the 251 genes from Whela
 **tree_90sp_CAT.tre**  
 100 jackknife replicates of 100,000 position each - CAT+G4 (Phylobayes)
 
-**100_jackknife_replicates_90sp_CAT.trees**  
-All jackknife trees corresponding to a 100 replicates used to build *tree_90sp_CAT.tre* - CAT+G4 (Phylobayes)
-
 **tree_97sp_LGF-PARTITION.tre**  
 100 bootstraps - partitionning by gene - LG+G4+F (RAxML)
 
@@ -121,11 +118,27 @@ as a dedicated software (named "CroCo") currently under final development and th
 
 ## Information
 
-**Post-publication_note.pdf**  
-Additional note on the MCMC convergence approximation strategy.
-
 **taxon_names.dict**  
 This dictionnary indicates the corresponds between full taxon names and their short version found in phylip files.
 
 **choanoflagellate names**  
 Choanoflagellate names used in our study corresponds to the valid names recently published by Carr et al. ([2016](http://www.sciencedirect.com/science/article/pii/S1055790316302743)).
+
+
+## Post-Publication Materials
+The *Post-Publication_Materials_following_arising_questions* folder contains additional files and analyses details that we made available following arising technical questions.
+
+**Post-publication_Note.pdf**  
+Additional note on the MCMC convergence approximation strategy used and on the further evaluation of chain convergence.
+
+**100_jackknife_replicates_90sp_CAT.trees**  
+All jackknife trees corresponding to the 100 replicates used to build *tree_90sp_CAT.tre* - CAT+G4 (Phylobayes)
+
+**10_jackknife_replicates_97sp_CAT.trees**  
+All jackknife trees corresponding to the 10 replicates used to build *tree_97sp_CAT.tre* - CAT+G4 (Phylobayes)
+
+**10_jackknife_replicates_80sp_CAT.trees**  
+All jackknife trees corresponding to the 10 replicates used to build *tree_NoDemo_CAT.tre* - CAT+G4 (Phylobayes)
+
+**10_jackknife_replicates_70sp_CAT.trees**  
+All jackknife trees corresponding to the 10 replicates used to build *tree_NoDemoCalcHomo_CAT.tre* - CAT+G4 (Phylobayes)
